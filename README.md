@@ -10,7 +10,7 @@ Spring Data JPA em memória (usando o "H2").
 
 Obs: O Java EE passou da tutela da Oracle para a Eclipse Foundation ( Jakarta EE ), com isso os imports do Java EE (javax.servlet) foram substituídos pelo novo Jakarta EE.
 
-![img1]()
+![img1](https://github.com/CelioAmaral/desafio-padroes-projeto-spring/blob/main/src/main/resources/img/design_patterns.png)
 
 ## 👨🏽‍💻 Desafio Realizado por:
 
